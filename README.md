@@ -1,3 +1,10 @@
+[![Built on Base](https://img.shields.io/badge/Built%20on%20Base-blue?logo=coinbase)](https://base.org)
+![Network: Base](https://img.shields.io/badge/Network-Base-blue?logo=coinbase)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.31-blue?logo=solidity)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Mainnet%20Live-success)
+
+
 # EchoCity
 
 **Leave your voice on the decentralized map of echoes.**
