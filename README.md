@@ -20,3 +20,32 @@ Each sound is pinned to a location and permanently recorded on-chain as a unique
 - Smart Contract: Solidity
 - Network: Base
 - Auth: Firebase Google Sign-In
+
+## Roadmap
+
+1. **Core Launch**  
+   - Deploy smart contracts on Base Mainnet  
+   - Integrate IPFS for decentralized audio storage  
+   - Build MVP frontend for uploads and map display  
+   - Connect EVM wallets (MetaMask, WalletConnect)  
+   - Complete end-to-end testing and documentation  
+
+2. **User Experience**  
+   - Improve UI/UX and upload flow  
+   - Add filters, audio previews, and better performance  
+   - Implement upload notifications and error handling  
+
+3. **Reputation Layer**  
+   - Introduce user reputation and activity tracking  
+   - Add moderation tools and public statistics  
+   - Record uploads and actions on-chain  
+
+4. **Token Utility**  
+   - Launch EchoCity token for user rewards  
+   - Enable staking and NFT marketplace for audio assets  
+   - Integrate Base ecosystem payments  
+
+5. **Expansion**  
+   - Add mobile app and AR map features  
+   - Release public API for developers  
+   - Implement community governance and DAO model  
